@@ -1,0 +1,11 @@
+C:\Users\David\Desktop\Adam\GitHub\FDMAssessmentCentre\AssessmentCentreTask\bin\Debug\netcoreapp3.1\AssessmentCentreTask.exe
+C:\Users\David\Desktop\Adam\GitHub\FDMAssessmentCentre\AssessmentCentreTask\bin\Debug\netcoreapp3.1\AssessmentCentreTask.deps.json
+C:\Users\David\Desktop\Adam\GitHub\FDMAssessmentCentre\AssessmentCentreTask\bin\Debug\netcoreapp3.1\AssessmentCentreTask.runtimeconfig.json
+C:\Users\David\Desktop\Adam\GitHub\FDMAssessmentCentre\AssessmentCentreTask\bin\Debug\netcoreapp3.1\AssessmentCentreTask.runtimeconfig.dev.json
+C:\Users\David\Desktop\Adam\GitHub\FDMAssessmentCentre\AssessmentCentreTask\bin\Debug\netcoreapp3.1\AssessmentCentreTask.dll
+C:\Users\David\Desktop\Adam\GitHub\FDMAssessmentCentre\AssessmentCentreTask\bin\Debug\netcoreapp3.1\AssessmentCentreTask.pdb
+C:\Users\David\Desktop\Adam\GitHub\FDMAssessmentCentre\AssessmentCentreTask\obj\Debug\netcoreapp3.1\AssessmentCentreTask.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Adam\GitHub\FDMAssessmentCentre\AssessmentCentreTask\obj\Debug\netcoreapp3.1\AssessmentCentreTask.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Adam\GitHub\FDMAssessmentCentre\AssessmentCentreTask\obj\Debug\netcoreapp3.1\AssessmentCentreTask.AssemblyInfo.cs
+C:\Users\David\Desktop\Adam\GitHub\FDMAssessmentCentre\AssessmentCentreTask\obj\Debug\netcoreapp3.1\AssessmentCentreTask.dll
+C:\Users\David\Desktop\Adam\GitHub\FDMAssessmentCentre\AssessmentCentreTask\obj\Debug\netcoreapp3.1\AssessmentCentreTask.pdb
